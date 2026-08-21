@@ -1,0 +1,1 @@
+.resume-link{font-weight:700}.hero-actions{position:relative;z-index:1;display:flex;flex-wrap:wrap;gap:12px}.button-secondary{background:transparent;color:var(--ink);border:1px solid var(--ink)}.button-secondary:hover{background:var(--ink);color:white}@media(max-width:650px){.hero-actions{gap:10px}}
